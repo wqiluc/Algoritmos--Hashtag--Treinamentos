@@ -1,0 +1,2 @@
+Entendendo como pensar e resolver exércicios 
+[exércicios/exércicio #01-#09.por ou .py]

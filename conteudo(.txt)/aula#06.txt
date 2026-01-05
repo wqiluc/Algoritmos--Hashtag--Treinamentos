@@ -1,0 +1,11 @@
+# O P E R A D O R E S #
+
+1. (AND/E);
+SÓ acontece quando ambos sao verdade
+
+2. (OR/OU)
+Acontece quando pelo menos 1 é verdade
+
+3. (NOT/NAO)
+Altera a natureza de um operador:
+#se ele é verdadeiro, passa a ser falso, e visse-versa

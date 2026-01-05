@@ -1,0 +1,129 @@
+# ESTRUTURAS CONDICIONAIS E DE REPETIÇÃO
+
+📘 Este arquivo .txt explica de forma **detalhada, didática e progressiva** os conceitos de **Estruturas Condicionais** e **Estruturas de Repetição**, fundamentais no estudo de **Algoritmos e Lógica de Programação**
+
+---
+
+🔹 1. O QUE SÃO ESTRUTURAS CONDICIONAIS?
+
+Estruturas condicionais permitem que o algoritmo **tome decisões**, ou seja, execute **diferentes caminhos** dependendo de uma condição lógica.
+
+👉 A pergunta central é:
+"SE algo acontecer, O QUE o programa deve fazer?"
+
+Essas decisões são baseadas em **expressões lógicas**, que resultam em:
+✔ VERDADEIRO (TRUE)
+❌ FALSO (FALSE)
+
+---
+
+🔸 1.1 CONDICIONAL SIMPLES (SE)
+
+📌 Executa um bloco de comandos **somente se** a condição for verdadeira.
+
+Exemplo conceitual:
+SE estiver chovendo
+→ leve guarda-chuva ☔
+
+💡 Se a condição for falsa, o algoritmo simplesmente ignora o bloco.
+
+---
+
+🔸 1.2 CONDICIONAL COMPOSTA (SE / SENÃO)
+
+📌 Permite escolher entre **dois caminhos diferentes**.
+
+Exemplo conceitual:
+SE a nota for maior ou igual a 7
+→ aluno aprovado ✅
+SENÃO
+→ aluno reprovado ❌
+
+👉 Sempre **um dos blocos será executado**.
+
+---
+
+🔸 1.3 CONDICIONAL ENCADEADA
+
+📌 Usada quando existem **várias condições possíveis**.
+
+Exemplo conceitual:
+SE idade < 12
+→ criança 🧒
+SENÃO SE idade < 18
+→ adolescente 👦
+SENÃO
+→ adulto 🧑
+
+💡 Muito comum em classificações e validações.
+
+---
+
+🔸 1.4 ESTRUTURA ESCOLHA / CASO
+
+📌 Utilizada quando há **múltiplos valores possíveis** para uma mesma variável.
+
+Exemplo conceitual:
+ESCOLHA a opção do menu:
+1 → Cadastrar 📋
+2 → Editar ✏️
+3 → Excluir 🗑️
+
+🎯 Torna o código mais organizado e legível.
+
+---
+
+🔹 2. O QUE SÃO ESTRUTURAS DE REPETIÇÃO?
+
+Estruturas de repetição permitem que um bloco de comandos seja **executado várias vezes**, evitando repetição manual de código.
+
+👉 A pergunta central é:
+"ENQUANTO ou ATÉ QUANDO devo repetir isso?"
+
+---
+
+🔸 2.1 ENQUANTO (WHILE)
+
+📌 A condição é testada **antes** da execução.
+
+Exemplo conceitual:
+ENQUANTO houver combustível
+→ o carro continua andando 🚗
+
+⚠️ Se a condição já começar falsa, o bloco **não executa nenhuma vez**.
+
+---
+
+🔸 2.2 REPITA / FAÇA ENQUANTO
+
+📌 A condição é testada **depois** da execução.
+
+Exemplo conceitual:
+REPITA
+→ peça a senha 🔐
+ATÉ que a senha esteja correta
+
+✔ Garante que o bloco execute **pelo menos uma vez**.
+
+---
+
+🔸 2.3 PARA (FOR)
+
+📌 Usada quando se sabe **quantas vezes** a repetição deve ocorrer.
+
+Exemplo conceitual:
+PARA contar de 1 até 10
+→ mostrar o número 🔢
+
+💡 Muito usada para contadores, listas, vetores e matrizes.
+
+---
+
+🏷️ HASHTAGS
+
+#TREINAMENTOS 💪📚
+#if 🔀
+#else 🔁
+#for 🔢
+#while 🔄
+#whileTrue ♾️

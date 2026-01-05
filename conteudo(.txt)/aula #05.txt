@@ -1,0 +1,17 @@
+Conceitos Importantes: 
+1. Variável e Constantes;
+2. Tipos Primitivos de Dados:
+inteiro - números inteiro (1,2,3,4,5);
+float - números flutuantes (1.1;4.6,-1.7);
+string - Textos e Palavras (.txt);
+booleanos - V ou F
+
+3. Estrutura de Dados/Coleções:
+Listas -> [1,2,3,4,5] ["representado por colchetes"];
+2 - Dicionários -> ["iPhone":5000, "iPad":7000, "macbook",10000] - 
+["nome/chave do produto":seu valor atribuido]
+
+4. Operadores:
+Matemáticos;
+Lógicos(AND, OR, NOT);
+Comparativos(=, >, <, >= e <=)
