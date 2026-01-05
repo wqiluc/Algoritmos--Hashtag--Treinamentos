@@ -115,6 +115,25 @@ Consolidar os fundamentos de <strong>Lógica de Programação e Algoritmos</stro
 
 <h2 align="center">🚀 Como Utilizar este Repositório</h2>
 
+Este repositório foi criado para **me e te ajudar a aprender Lógica de Programação e Algoritmos** de forma prática e organizada 🚀.  
+Aqui você encontrará **exercícios resolvidos**, **anotações e resumos** 📄 e **exemplos práticos** para testar e fixar seu aprendizado 💡.
+
+
+<h3>📥 Clonando o Repositório</h3>
+
+Para utilizar este repositório localmente, siga os passos abaixo:
+
+1. Certifique-se de ter o <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="35"/>  instalado 🔗 [Git](https://git-scm.com/)
+ 
+2. Abra o **Terminal**, **Prompt de Comando** ou **PowerShell** (a depender da tua **máquina**)
+3. Execute o comando para clonar o repositório e acesse a pasta do projeto:
+
+```bash
+git clone https://github.com/wqiluc/Algortmos--Hashtag--Treinamentos.git
+cd Algortmos--Hashtag--Treinamentos 
+```
+
+
 <h2 align="center">⛏️💻 Ferramentas Utilizadas: </h2>
 
 <div align="center">
