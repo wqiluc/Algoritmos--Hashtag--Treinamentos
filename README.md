@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center">👨🏻‍💻 Autor deste Repositório</h2>
+<h2 align="center">👨🏻‍💻 Autor deste Repositório: </h2>
 
 <div align="center">
 
@@ -113,7 +113,7 @@ Consolidar os fundamentos de <strong>Lógica de Programação e Algoritmos</stro
 </p>
 
 
-<h2 align="center">🚀 Como Utilizar este Repositório</h2>
+<h2 align="center">🚀 Como Utilizar este Repositório: </h2>
 
 Este repositório foi criado para **me e te ajudar a aprender Lógica de Programação e Algoritmos** de forma prática e organizada 🚀.  
 Aqui você encontrará **exercícios resolvidos**, **anotações e resumos** 📄 e **exemplos práticos** para testar e fixar seu aprendizado 💡.
@@ -179,14 +179,14 @@ No entanto, em caso de issues ou dúvidas, posso adicionar mais material própri
 </p>
 
 
-<h2 align="center">🤝 Contribuições</h2>
+<h2 align="center">🤝 Contribuições: </h2>
 
 <p align="center">
 Sugestões e melhorias são sempre bem-vindas!<br>
 Fique à vontade para abrir issues ou propor melhorias.
 </p>
 
-<h2 align="center">📜 Licença</h2>
+<h2 align="center">📜 Licença: </h2>
 
 <p align="center">
 Este projeto está licenciado sob a <strong>MIT License</strong>.<br>
