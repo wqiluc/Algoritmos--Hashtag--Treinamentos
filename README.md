@@ -101,8 +101,7 @@ Algoritmos - Hashtag Treinamentos/
 │   └── Hashtag_logo2.jpeg
 ├── README_Algoritmos_Hashtag.md
 └── LICENSE (MIT)
-
-<img src="https://img.shields.io/badge/-Arquitetura-6B7280?style=flat-square&logo=diagramsdotnet&logoColor=black"/>
+img src="https://img.shields.io/badge/Arquitetura-111827?style=for-the-badge&logo=instructure&logoColor=white" alt="Arquitetura Badge"/>
 </pre>
 
 
