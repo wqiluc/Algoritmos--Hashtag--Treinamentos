@@ -156,7 +156,7 @@ cd Algortmos--Hashtag--Treinamentos
 
 • 🧠 Lógica de Programação  
 • 🔧 Algoritmos  
-• 📝 Pseudocódigo (usando também Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>) <br>
+• 📝 Pseudocódigo <br> (usando também Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>) <br>
 • ⚙️ Estruturas Condicionais (`if / else`)  
 • 🔁 Estruturas de Repetição (`for`, `while`, `for each`, `while True`)  
 • 📦 Variáveis e Tipos de Dados  
