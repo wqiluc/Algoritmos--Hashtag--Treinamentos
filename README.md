@@ -101,6 +101,7 @@ Algoritmos - Hashtag Treinamentos/
 ├── img/
 │   └── Hashtag_logo.jpeg
 │   └── Hashtag_logo2.jpeg
+│   └── Certificado.jpeg
 ├── README.md
 └── LICENSE (MIT)
 
